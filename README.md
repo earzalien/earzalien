@@ -84,8 +84,8 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/earzalien">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="earzalien" />
+  <a href="https://www.buymeacoffee.com/earzalien"><br /><br />
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="earzalien" /><br /><br />
   </a>
 </p>
 <br><br>
